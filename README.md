@@ -1,4 +1,5 @@
 # Animated Adaptive Linear Neuron (Adaline)
+[![View Animated-Adaptive-Linear-Neuron on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/100726-animated-adaptive-linear-neuron)
 How can a machine learning model be trained to [classify flowers](https://medium.com/gft-engineering/start-to-learn-machine-learning-with-the-iris-flower-classification-challenge-4859a920e5e3)? 
 The fundamental question 
 behind this is how a machine learning model categorizes data like the flower pictures. 
