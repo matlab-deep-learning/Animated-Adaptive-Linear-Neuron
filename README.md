@@ -21,7 +21,7 @@ Please refresh the browser to restart the animation.
 
 ![batch gradient descent](./batchGraDes.gif)
 
-In the above animation, the top one is a scatter plot of some data from the iris dataset from [UCI server](https://archive.ics.uci.edu/ml/machine-learning-databases). 
+In the above animation, the top one is a scatter plot of some data from the iris dataset from UCI server.
 The red line is the decision boundary. The lower one is a plot of the cost function of an Adaline model.
 
 In addition to normal (batch) gradient descent, Animated Adaline also supports 
